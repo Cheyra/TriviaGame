@@ -1,0 +1,22 @@
+body{background-image: url(../images/iron-man-wallpaper-12.jpg);
+    background-repeat: no-repeat;
+    background-size: 200% 100% 200% 100%;
+    background-origin: content-box;
+color: navy}
+h1{ background-color:rgb(122, 9, 9);
+color:lightcyan}
+button{ text-align: center}
+container{background-color: lightcyan}
+#box {background-color: lightcyan;
+    align-content: center; 
+
+}
+.jumbotron{width:50%}
+.option{background-color:navy;
+color:lightcyan}
+.change:hover{
+    background-color:rgb(122, 9, 9);
+}
+button:hover{
+    color:  lightseagreen
+}
